@@ -7,6 +7,11 @@ Tom and Tom's manager, Seth, have tasked us with a few  data values they need ca
 ## Election Audit Results
 ![Election Outcome](Resources/Election_Outcome.png)
 
+Based on our analysis, we were able to crunch the data into the following data above. 
+- We were able to calculate the total number of voters to be 369,711.
+- Our county votes display the total amount of votes from each county and what percentage of votes came from each county when compared to the total votes.
+  For example, Denver had 306,055 votes placed within its county, which came out to be a total of 82.8% of all votes placed in this election.
+
 
 ## Election Audit Summary
 
