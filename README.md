@@ -11,6 +11,11 @@ Based on our analysis, we were able to crunch the data into the following data a
 - We were able to calculate the total number of voters to be 369,711.
 - Our county votes display the total amount of votes from each county and what percentage of votes came from each county when compared to the total votes.
   For example, Denver had 306,055 votes placed within its county, which came out to be a total of 82.8% of all votes placed in this election.
+- The most votes came from Denver County, displaying next to the Largest County Turnout.
+- Similar to the County votes section, we created a section showing every candidate that received votes, how many votes they received, and what percentage of the total     votes they ended up receiving. For instance, Charles Casper Stockham received 85,213 votes, which ended up being 23% of the total votes that were casted.
+- Lastly, our program show who ended up winning the election, the amount of votes they received, and what percentage of the total votes they received.
+- Diana DeGette seems to be the election winner by a long shot. She received a total of 272,892 votes, while second only received 85,312. Her percentage of the total   
+  votes received was 73.8%, followed by Stockham with 23%.
 
 
 ## Election Audit Summary
