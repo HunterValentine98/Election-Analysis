@@ -5,6 +5,7 @@ Tom and Tom's manager, Seth, have tasked us with a few  data values they need ca
 
 
 ## Election Audit Results
+![Election Outcome](Resources/Election_Outcome.png)
 
 
 ## Election Audit Summary
