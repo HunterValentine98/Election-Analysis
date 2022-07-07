@@ -20,4 +20,5 @@ Based on our analysis, we were able to crunch the data into the following data a
 ## Election Audit Summary
 - In summary, this program can be sent to the election commission for analysis of future elections as well. Under "file_to_load = os.path.join( ".", "Resources", "election_results.csv")", you would simply change "election_results.csv" to whatever data comes from the new election!
 - Don't forget in "file_to_save = os.path.join("analysis", "election_analysis.txt")" to change "election_analysis.txt" to a new text file name that you would like to create for the new election results.
+- With these two simple changes, the program will now be able to read any data from upcoming elections, and create a new text file "table" (like the table displayed above) for the results of said election.
 
