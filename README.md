@@ -14,8 +14,7 @@ Based on our analysis, we were able to crunch the data into the following data a
 - The most votes came from Denver County, displaying next to the Largest County Turnout.
 - Similar to the County votes section, we created a section showing every candidate that received votes, how many votes they received, and what percentage of the total     votes they ended up receiving. For instance, Charles Casper Stockham received 85,213 votes, which ended up being 23% of the total votes that were casted.
 - Lastly, our program show who ended up winning the election, the amount of votes they received, and what percentage of the total votes they received.
-- Diana DeGette seems to be the election winner by a long shot. She received a total of 272,892 votes, while second only received 85,312. Her percentage of the total   
-  votes received was 73.8%, followed by Stockham with 23%.
+- Diana DeGette seems to be the election winner by a long shot. She received a total of 272,892 votes, while second only received 85,312. Her percentage of the total       votes received was 73.8%, followed by Stockham with 23% 
 
 
 ## Election Audit Summary
